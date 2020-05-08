@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52052d36.chunk.css",
+    "main.js": "/static/js/main.1fb3bfac.chunk.js",
+    "main.js.map": "/static/js/main.1fb3bfac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfae3202.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfae3202.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.40ef7b15.chunk.js": "/static/js/2.40ef7b15.chunk.js",
+    "static/js/2.40ef7b15.chunk.js.map": "/static/js/2.40ef7b15.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.04de63ebb3ef8e6db1c6d1ab0499300e.js": "/precache-manifest.04de63ebb3ef8e6db1c6d1ab0499300e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.52052d36.chunk.css.map": "/static/css/main.52052d36.chunk.css.map",
+    "static/js/2.40ef7b15.chunk.js.LICENSE.txt": "/static/js/2.40ef7b15.chunk.js.LICENSE.txt",
+    "static/media/ContentData.css": "/static/media/008.07719afe.jpg",
+    "static/media/004.jpg": "/static/media/004.a0816025.jpg",
+    "static/media/006.jpg": "/static/media/006.1d2ebea8.jpg",
+    "static/media/FKP_LOGO_MAIN.jpg": "/static/media/FKP_LOGO_MAIN.f3ce8f36.jpg",
+    "static/media/sony.jpg": "/static/media/sony.392edc62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfae3202.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.40ef7b15.chunk.js",
+    "static/css/main.52052d36.chunk.css",
+    "static/js/main.1fb3bfac.chunk.js"
+  ]
+}
